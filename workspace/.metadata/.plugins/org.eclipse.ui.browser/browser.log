@@ -1,0 +1,71 @@
+
+Apr 02, 2024 10:39:57.66 NEW SESSION
+Apr 02, 2024 10:39:57.75 [24768:3264:0402/103957.648:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 10:39:59.04 [24768:3264:0402/103959.049:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 10:39:59.35 [24768:3264:0402/103959.352:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 10:39:59.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 02, 2024 10:40:10.72 [24768:3264:0402/104010.719:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 10:40:10.72 [24768:3264:0402/104010.719:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 10:40:10.72 [24768:3264:0402/104010.719:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 10:40:10.96 [24768:3264:0402/104010.964:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 10:40:10.96 [24768:3264:0402/104010.964:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 10:40:10.96 [24768:3264:0402/104010.964:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 10:40:11.17 [24768:3264:0402/104011.170:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 10:40:11.19 [24768:3264:0402/104011.190:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 10:40:11.19 [24768:3264:0402/104011.190:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 10:40:11.19 [24768:3264:0402/104011.192:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 10:40:11.24 [24768:3264:0402/104011.242:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 10:40:11.36 [24768:3264:0402/104011.363:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+
+Apr 02, 2024 14:52:21.04 NEW SESSION
+Apr 02, 2024 14:52:21.06 [22788:7276:0402/145221.041:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 14:52:21.06 [22788:7276:0402/145221.042:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 14:52:22.05 [22788:7276:0402/145222.054:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 14:52:22.05 [22788:7276:0402/145222.054:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 14:52:22.70 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 02, 2024 14:52:31.67 [22788:7276:0402/145231.671:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 14:52:31.67 [22788:7276:0402/145231.671:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 02, 2024 15:15:45.90 [22788:7276:0402/151545.907:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 02, 2024 15:38:03.81 [22788:20116:0402/153803.799:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 02, 2024 18:36:13.51 [22788:20116:0402/183613.510:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 02, 2024 18:36:13.53 [22788:24596:0402/183613.532:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Apr 02, 2024 18:36:33.07 [22788:20116:0402/183633.073:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 02, 2024 18:36:33.10 [22788:24596:0402/183633.105:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Apr 02, 2024 18:36:33.26 [22788:20116:0402/183633.266:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 02, 2024 18:36:33.31 [22788:6796:0402/183633.309:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Apr 02, 2024 18:36:38.41 [22788:20116:0402/183638.414:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 02, 2024 18:36:52.90 [22788:20116:0402/183652.908:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 02, 2024 18:36:52.91 [22788:23180:0402/183652.911:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Apr 02, 2024 18:37:04.52 [22788:20116:0402/183704.525:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 02, 2024 18:37:05.79 [22788:23180:0402/183705.794:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 02, 2024 18:37:07.27 [22788:20116:0402/183707.273:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2024 18:37:11.62 [22788:7276:0402/183711.624:ERROR:device_event_log_impl.cc(195)] [18:37:11.624] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 02, 2024 18:37:22.64 [22788:20116:0402/183722.641:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+
+Apr 06, 2024 16:51:07.54 NEW SESSION
+Apr 06, 2024 16:51:07.55 [18188:24840:0406/165107.545:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 06, 2024 16:51:07.90 [18188:24840:0406/165107.903:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 06, 2024 16:51:08.10 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2024 16:51:08.11 [18188:24840:0406/165108.114:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 06, 2024 16:51:17.47 [18188:24840:0406/165117.473:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+
+Apr 09, 2024 20:44:06.42 NEW SESSION
+Apr 09, 2024 20:44:06.62 [42196:11532:0409/204406.373:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 20:44:06.62 [42196:11532:0409/204406.377:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 20:44:06.62 [42196:11532:0409/204406.625:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 20:44:07.85 [42196:11532:0409/204407.848:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 20:44:07.97 [42196:11532:0409/204407.971:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 20:44:07.98 [42196:11532:0409/204407.987:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 20:44:08.02 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 09, 2024 20:44:16.46 [42196:11532:0409/204416.461:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 20:44:16.46 [42196:11532:0409/204416.461:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 20:44:16.46 [42196:11532:0409/204416.461:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 20:44:16.46 [42196:11532:0409/204416.461:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 20:44:16.46 [42196:11532:0409/204416.461:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 20:44:16.46 [42196:11532:0409/204416.461:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 21:06:00.38 [42196:40228:0409/210600.363:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 09, 2024 21:44:04.89 [42196:11532:0409/214404.889:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 21:44:04.90 [42196:11532:0409/214404.889:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 21:44:04.90 [42196:11532:0409/214404.893:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 21:44:04.90 [42196:11532:0409/214404.898:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+Apr 09, 2024 21:44:04.90 [42196:11532:0409/214404.900:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
