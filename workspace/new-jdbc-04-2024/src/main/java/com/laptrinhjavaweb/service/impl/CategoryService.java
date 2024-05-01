@@ -5,7 +5,6 @@ import java.util.List;
 import javax.inject.Inject;
 
 import com.laptrinhjavaweb.dao.ICategoryDao;
-import com.laptrinhjavaweb.dao.impl.CategoryDao;
 import com.laptrinhjavaweb.model.CategoryModel;
 import com.laptrinhjavaweb.service.ICategoryService;
 

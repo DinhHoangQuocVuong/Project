@@ -1,6 +1,6 @@
 package com.laptrinhjavaweb.model;
 
-import java.sql.Timestamp;
+
 
 public class NewModel  extends AbstractModel {
 
@@ -33,12 +33,15 @@ public String getContent() {
 public void setContent(String content) {
 	this.content = content;
 }
-public Long getCategoryid() {
+public Long getCategoryId() {
 	return categoryid;
 }
-public void setCategoryid(Long categoryid) {
+public void setCategoryId(Long categoryid) {
 	this.categoryid = categoryid;
 }
+
+
+
 
 
 

@@ -69,3 +69,16 @@ Apr 09, 2024 21:44:04.90 [42196:11532:0409/214404.889:ERROR:extension_host.cc(41
 Apr 09, 2024 21:44:04.90 [42196:11532:0409/214404.893:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
 Apr 09, 2024 21:44:04.90 [42196:11532:0409/214404.898:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
 Apr 09, 2024 21:44:04.90 [42196:11532:0409/214404.900:ERROR:extension_host.cc(416)] Received EventAck for extension nnjjahlikiabnchcpehcpkdeckfgnohf for an unknown event.
+
+Apr 17, 2024 21:49:34.07 NEW SESSION
+Apr 17, 2024 21:49:34.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 17, 2024 21:49:34.09 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+
+Apr 30, 2024 16:00:24.55 NEW SESSION
+Apr 30, 2024 16:00:24.56 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+May 01, 2024 17:51:48.12 NEW SESSION
+May 01, 2024 17:51:48.14 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+May 01, 2024 18:03:45.55 NEW SESSION
+May 01, 2024 18:03:45.59 Created TensorFlow Lite XNNPACK delegate for CPU.

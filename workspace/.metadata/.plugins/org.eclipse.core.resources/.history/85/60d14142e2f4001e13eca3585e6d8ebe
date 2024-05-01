@@ -1,0 +1,33 @@
+<%@include file="/common/taglib.jsp"%>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<title><dec:title default="Trang chủ" /></title>
+
+<!-- css -->
+<link href="<c:url value='template/web/bootstrap/bootstrap-icons.css' />" rel="stylesheet" type="text/css" media="all" />
+<link href="<c:url value='/template/web/css/style.css' />" rel="stylesheet" type="text/css" media="all">
+
+
+</head>
+
+<body>
+	<!-- header -->
+	<%@include file="/common/web/header.jsp"%>
+	<!-- header -->
+
+	<div class="container">
+		<dec:body />
+	</div>
+
+	<!-- footer -->
+	<%@include file="/common/web/footer.jsp"%>
+	<!-- foooter -->
+
+	<script type="text/javascript"
+		src="<<c:url value='/template/web/jquery/scripts.js' />"></script>
+	<script type="text/javascript"
+		src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

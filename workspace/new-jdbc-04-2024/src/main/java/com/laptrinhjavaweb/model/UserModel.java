@@ -1,7 +1,5 @@
 package com.laptrinhjavaweb.model;
 
-import java.sql.Timestamp;
-
 public class UserModel  extends AbstractModel{
 	
 	

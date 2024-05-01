@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorators defaultdir="/decorators">
+ 
+ <excludes> 
+ <patttern>/404-page.html</patttern>
+ <patttern>/api*</patttern>
+ <patttern>dang-nhap</patttern>
+ </excludes>
+ 32:42
+ </decorators>

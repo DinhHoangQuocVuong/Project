@@ -6,23 +6,30 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="&lt;jsp.api.version&gt;"/>
+		<item key="selection" value="category"/>
 		<list key="findhistory">
+			<item value="Category"/>
+			<item value="etCategory"/>
+			<item value="category"/>
+			<item value="id"/>
+			<item value="ì"/>
+			<item value="Cate"/>
+			<item value="Ca"/>
+			<item value="catego"/>
+			<item value="categoryid"/>
 			<item value="&lt;jsp.api.version&gt;"/>
 			<item value="body"/>
 			<item value="All "/>
 			<item value="All product"/>
 			<item value="tomcat"/>
 			<item value="tomca"/>
-			<item value="jstl"/>
-			<item value="jakarta"/>
 		</list>
 		<list key="replacehistory">
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="305"/>
-		<item key="DIALOG_Y_ORIGIN" value="82"/>
+		<item key="DIALOG_X_ORIGIN" value="1307"/>
+		<item key="DIALOG_Y_ORIGIN" value="395"/>
 		<item key="DIALOG_WIDTH" value="414"/>
 		<item key="DIALOG_HEIGHT" value="454"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
